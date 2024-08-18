@@ -7,3 +7,6 @@ So we developed an AI powered by computer vision and machine learning which dete
 
 # 2.Object detection 
 This code uses a pre-trained object detection model to recognize objects in real-time from your webcam feed. The model was trained with labeled examples, which means it learned to identify objects based on images that had names for the things in them. When you run the code, it captures video, uses the model to find and label objects in each frame, and then displays the results with bounding boxes and names for the detected objects. This process shows how the model applies what it learned from training to new video footage.
+
+# 3.Convolutional Neural Network
+A Convolutional Neural Network (CNN) developed using Keras and TensorFlow to classify images of cats and dogs. The dataset is loaded from Keras and consists of labeled images that are resized and normalized for training. The CNN architecture includes convolutional, pooling, and dense layers to effectively learn features distinguishing cats from dogs. After training, the model can accurately predict whether an unseen image depicts a cat or a dog.
