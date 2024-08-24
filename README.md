@@ -10,3 +10,7 @@ This code uses a pre-trained object detection model to recognize objects in real
 
 # 3.Convolutional Neural Network
 A Convolutional Neural Network (CNN) developed using Keras and TensorFlow to classify images of cats and dogs. The dataset is loaded from Keras and consists of labeled images that are resized and normalized for training. The CNN architecture includes convolutional, pooling, and dense layers to effectively learn features distinguishing cats from dogs. After training, the model can accurately predict whether an unseen image depicts a cat or a dog.
+
+# 4.Snakegame AI 
+Remember playing those days when you played a snake game where you dont have to touch the boundaries of the screen and eat the food balls to progress in the game by increasing the score. Now that is being played by AI here. the more iterations it gets to play the game the more higher score achieved!
+
