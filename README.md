@@ -1,4 +1,4 @@
-# AI
+# Artificial Intelligence based Practical Project Implimentations
 
 # 1.Integrated System for face Detection and Attendence
 During pandemic times, at our school (SPS Tronica). Staff manually made entries of each student entering the premises, which was a dumb idea 🥲! 
